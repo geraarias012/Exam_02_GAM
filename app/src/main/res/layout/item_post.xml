@@ -18,6 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Post Title"
+            android:textSize="18dp"
             android:textColor="@color/guinda"
             android:textAppearance="?attr/textAppearanceSubtitle1"
             android:textStyle="bold" />
@@ -28,6 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="Post Body"
+            android:textSize="16dp"
             android:textColor="@color/guinda"
             android:textAppearance="?attr/textAppearanceBody1" />
 

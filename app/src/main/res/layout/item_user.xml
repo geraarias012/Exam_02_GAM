@@ -20,6 +20,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="User Name"
+                android:textSize="20dp"
                 android:textColor="@color/guinda"
                 android:textStyle="bold" />
 
@@ -29,6 +30,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
                 android:text="email@example.com"
+                android:textSize="14dp"
                 android:textColor="@color/guinda"
                 android:textStyle="italic" />
         </LinearLayout>
